@@ -12,7 +12,9 @@
 
 ### ⚆ETC⚆
 
-![Adobe Photoshop](https://img.shields.io/badge/Photoshop-#31A8FF.svg?&style=for-the-badge&logo=Adobe Photoshop&logoColor=white)![Adobe Premiere Pro](https://img.shields.io/badge/Photoshop-#9999FF.svg?&style=for-the-badge&logo=Adobe Premiere Pro&logoColor=white)![Adobe After Effects](https://img.shields.io/badge/Photoshop-#9999FF.svg?&style=for-the-badge&logo=Adobe After Effects&logoColor=white)
+![Adobe Photoshop](https://img.shields.io/badge/Photoshop-#31A8FF.svg?&style=for-the-badge&logo=Adobe Photoshop&logoColor=white)
+![Adobe Premiere Pro](https://img.shields.io/badge/Photoshop-#9999FF.svg?&style=for-the-badge&logo=Adobe Premiere Pro&logoColor=white)
+![Adobe After Effects](https://img.shields.io/badge/Photoshop-#9999FF.svg?&style=for-the-badge&logo=Adobe After Effects&logoColor=white)
 
 
 
@@ -21,8 +23,10 @@
 ### 🎓TRYING🎓
 
 ![Blender](https://img.shields.io/badge/Blender-##F5792A.svg?&style=for-the-badge&logo=Blender&logoColor=white)
-
-![HTML5](https://img.shields.io/badge/HTML-#E34F26.svg?&style=for-the-badge&logo=HTML5&logoColor=white)![CSS3](https://img.shields.io/badge/CSS-#1572B6.svg?&style=for-the-badge&logo=CSS3&logoColor=white)![JS](https://img.shields.io/badge/JS-#F7DF1E.svg?&style=for-the-badge&logo=JavaScript&logoColor=white)![C](https://img.shields.io/badge/C-#A8B9CC.svg?&style=for-the-badge&logo=C&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML-#E34F26.svg?&style=for-the-badge&logo=HTML5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS-#1572B6.svg?&style=for-the-badge&logo=CSS3&logoColor=white)
+![JS](https://img.shields.io/badge/JS-#F7DF1E.svg?&style=for-the-badge&logo=JavaScript&logoColor=white)
+![C](https://img.shields.io/badge/C-#A8B9CC.svg?&style=for-the-badge&logo=C&logoColor=white)
 
 
 
