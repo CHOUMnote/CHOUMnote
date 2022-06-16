@@ -1,4 +1,16 @@
 # 안녕하세요 초보 개발자이자 대학생 김지호입니다~
+> 공부! 공부! 오늘도 공부!
+>
+> 아 이것만 하고 해야지
+
+해야 할 기술 STACk
+
+- [ ] rust
+- [ ] C++
+- [ ] C#
+- [ ] react
+
+<br>
 
 ## Skill
 
@@ -33,3 +45,27 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CHOUMnote&show_icons=true&theme=default)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CHOUMnote&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=rlawlgh1028)](https://solved.ac/rlawlgh1028/) 
+
+
+
+<hr>
+
+[**블로그**](https://choumnote.github.io/)
+
+
+
+### 오늘도 공부
+
+
+[자바 공부 모음](https://github.com/CHOUMnote/java_ex)
+
+[개인 공부 과제](https://github.com/CHOUMnote/study_lib)
+
+[C언어 공부](https://github.com/CHOUMnote/CLangEducation)
+
+[백준 알고리즘](https://github.com/CHOUMnote/Baekjoon)
+
+
+### 개인 프로젝트!
+
+[파댕이의 모험](https://github.com/CHOUMnote/PadangAdventure)
