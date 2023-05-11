@@ -59,13 +59,12 @@
 
 [자바 공부 모음](https://github.com/CHOUMnote/java_ex)
 
-[개인 공부 과제](https://github.com/CHOUMnote/study_lib)
+[개인 공부/과제](https://github.com/CHOUMnote/study_lib)
 
 [C언어 공부](https://github.com/CHOUMnote/CLangEducation)
 
-[백준 알고리즘](https://github.com/CHOUMnote/Baekjoon)
+[C++언어 공부](https://github.com/CHOUMnote/CppStudy)
 
+[Rust언어 공부](https://github.com/CHOUMnote/RustStudy)
 
-### 개인 프로젝트!
-
-[파댕이의 모험](https://github.com/CHOUMnote/PadangAdventure)
+[알고리즘 문제](https://github.com/CHOUMnote/Baekjoon)
